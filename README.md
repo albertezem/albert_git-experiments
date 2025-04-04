@@ -18,3 +18,12 @@ git push
 2. I created a branch using git checkout -b "newbranch"
 3. I made changes on the branch and pushed them
 4. I used github.com to create the pull request
+5. Git log included a log for the pull request 
+
+## Part 3
+
+1. To create a merge conflict, my partner pushed an edit, and I committed changes to my local repo 
+before pulling.
+2. I resolved the conflict by selecting one of the versions of the file as the correct version
+in the merge editor, then pushing everything
+
